@@ -40,5 +40,5 @@ An exploratory data analysis project analyzing Swiggy sales and order data from 
 
 ## Connect With Me
 
-- LinkedIn: [Harsh Bardhan Kumar]([https://www.linkedin.com/](https://www.linkedin.com/in/harshbardhankumar-dataanalyst/))
+- LinkedIn: [Harsh Bardhan Kumar]([https://www.linkedin.com/](https://www.linkedin.com/in/harshbardhankumar-dataanalyst/)
 - GitHub: [harshcharitra619](https://github.com/harshcharitra619)
