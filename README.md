@@ -1,8 +1,10 @@
 # Harsh Bardhan Kumar
 
-### Aspiring Data Analyst
+### Aspiring Data Analyst | CSE Student
 
-I am a Computer Science Engineering student focused on data analysis and turning data into meaningful insights for better decision-making.
+Computer Science Engineering student focused on data analysis, business insights, and data-driven decision-making.
+
+I enjoy working with data to identify trends, understand business performance, and turn raw data into meaningful insights.
 
 ## Skills
 
@@ -14,11 +16,11 @@ I am a Computer Science Engineering student focused on data analysis and turning
 
 ## Featured Project
 
-### Swiggy Sales & Order Analysis
+### 📊 Swiggy Sales & Order Analysis
 
 **Tools:** Microsoft Excel, Power Query, Pivot Tables
 
-An exploratory data analysis project focused on understanding sales performance, order patterns, food category performance, and geographical contribution using Swiggy sales data from January 2025 to August 2025.
+An exploratory data analysis project analyzing Swiggy sales and order data from January 2025 to August 2025.
 
 **Key Analysis:**
 
@@ -30,18 +32,15 @@ An exploratory data analysis project focused on understanding sales performance,
 - Quarterly sales, ratings, and order analysis
 - Business insights and recommendations
 
-**Key Findings:**
-
-- Total sales reached approximately ₹53.01M.
-- Approximately 197.43K orders were recorded.
-- Non-Veg sales contributed approximately 64% of total sales.
-- Bengaluru recorded the highest sales among the analyzed top cities at approximately ₹5.5M.
-- Saturday recorded the highest daily sales at approximately ₹7.8M.
-
-[View Project →](https://github.com/harshcharitra619/swiggy-sales-order-analysis)
+🔗 [View Project →](https://github.com/harshcharitra619/swiggy-sales-order-analysis)
 
 ## Currently Learning
 
 - Advanced SQL
 - Python for Data Analysis
 - Machine Learning
+
+## Connect With Me
+
+- LinkedIn: [Harsh Bardhan Kumar](https://www.linkedin.com/in/harshbardhankumar-dataanalyst/)
+- GitHub: [harshcharitra619](https://github.com/harshcharitra619)
