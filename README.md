@@ -2,17 +2,15 @@
 
 ### Aspiring Data Analyst | CSE Student
 
-Computer Science Engineering student focused on data analysis, business insights, and data-driven decision-making.
+## About Me
 
-I enjoy working with data to identify trends, understand business performance, and turn raw data into meaningful insights.
+I am a Computer Science Engineering student focused on data analysis and business intelligence. I enjoy exploring data, identifying trends, and communicating insights through clear visualizations and dashboards.
 
 ## Skills
 
-- SQL
-- Microsoft Excel
-- Power BI
-- Python
-- Data Analysis
+**Data Analysis:** SQL, Excel, Power BI, Python
+
+**Tools:** Power Query, Pivot Tables, Data Visualization
 
 ## Featured Project
 
@@ -42,5 +40,5 @@ An exploratory data analysis project analyzing Swiggy sales and order data from 
 
 ## Connect With Me
 
-- LinkedIn: [Harsh Bardhan Kumar](https://www.linkedin.com/in/harshbardhankumar-dataanalyst/)
+- LinkedIn: [Harsh Bardhan Kumar]([https://www.linkedin.com/](https://www.linkedin.com/in/harshbardhankumar-dataanalyst/))
 - GitHub: [harshcharitra619](https://github.com/harshcharitra619)
